@@ -1,0 +1,72 @@
+[{
+        "id": 1,
+        "tipo": "Pretal",
+        "nombre": "Pretal-Aventura",
+        "precio": 2900,
+        "foto": "../media/products/producto1.jpg"
+    }, {
+        "id": 2,
+        "tipo": "Buzo",
+        "nombre": "Buzo Urban-Capucha",
+        "precio": 3700,
+        "foto": "../media/products/producto2.jpg"
+    }, {
+        "id": 3,
+        "tipo": "juguete",
+        "nombre": "Mordillo-Hueso",
+        "precio": 1500,
+        "foto": "../media/products/producto3.jpg"
+    }, {
+        "id": 4,
+        "tipo": "juguete",
+        "nombre": "Pelota estimulante",
+        "precio": 1100,
+        "foto": "../media/products/producto4.jpg"
+    }, {
+        "id": 5,
+        "tipo": "juguete",
+        "nombre": "Trenza gigante",
+        "precio": 1400,
+        "foto": "../media/products/producto5.jpg"
+    }, {
+        "id": 6,
+        "tipo": "Jueguete",
+        "nombre": "Pelota trenzada",
+        "precio": 1500,
+        "foto": "../media/products/producto6.jpg"
+    }, {
+        "id": 7,
+        "tipo": "Buzo",
+        "nombre": "Buzo Tri-Color",
+        "precio": 3700,
+        "foto": "../media/products/producto7.jpg"
+    }, {
+        "id": 8,
+        "tipo": "Buzo",
+        "nombre": "Buzo Plata-Pequeño",
+        "precio": 2500,
+        "foto": "../media/products/producto8.jpg"
+    }, {
+        "id": 9,
+        "tipo": "Buzo",
+        "nombre": "Cubre lomo",
+        "precio": 2900,
+        "foto": "../media/products/producto9.jpg"
+    }, {
+        "id": 10,
+        "tipo": "Buzo",
+        "nombre": "Buzo manga larga",
+        "precio": 3600,
+        "foto": "../media/products/producto10.jpg"
+    }, {
+        "id": 11,
+        "tipo": "Juguete",
+        "nombre": "Mordillo Hueso-Blando",
+        "precio": 3500,
+        "foto": "../media/products/producto11.jpg"
+    }, {"id": 12,
+    "tipo": "Buzo",
+    "nombre": "Buzo lana-pequeño",
+    "precio": 2900,
+    "foto": "../media/products/producto12.jpg"
+    }]
